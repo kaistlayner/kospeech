@@ -14,3 +14,5 @@ venv/*
 *.pyc
 .idea
 .ipynb_checkpoints
+KoSpeech.egg-info
+transcripts.txt
